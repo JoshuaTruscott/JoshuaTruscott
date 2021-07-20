@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaTruscott)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaTruscott&theme=dark&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JoshuaTruscott/JoshuaTruscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
